@@ -15,7 +15,7 @@ This project demonstrates testing the JPA `@Version` property in a Spring Boot a
 
 ##### Step 1: Clone the Repository
 ```bash
-git clone [<repository-url>](https://github.com/arjunshajitech/version-annotation-tryout.git)
+git clone https://github.com/arjunshajitech/version-annotation-tryout.git
 cd version
 ```
 
